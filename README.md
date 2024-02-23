@@ -1,4 +1,4 @@
-# Classic Fizzbuzz
+# Classic FizzBuzz
 
 ## Overview
 A simple Python implementation of the classic FizzBuzz problem.
